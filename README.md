@@ -233,9 +233,7 @@ Create a directory for your certificates:
 mkdir certs
 ```
 
-> **Note:** You may also use the given certs/ directory as it comes preconfigured on the server.
-
-> **Note:** You may also use the given certs/ directory as it comes preconfigured on the server.
+> **Note:** You may also use the given certs/ directory that comes preconfigured on the server.
 
 Generate a self-signed certificate using OpenSSL:
 
