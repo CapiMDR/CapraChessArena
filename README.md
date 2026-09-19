@@ -6,7 +6,27 @@
 
 A modern online chess platform built with **p5.js**, **Node.js**, and **XAMPP**, featuring real-time online gameplay, account management, persistent match history, and a custom-built chess engine capable of AI gameplay and game analysis.
 
-You can try a live demo of the CapraStar AI here: https://editor.p5js.org/brownmakey243/full/A80PMc3Xj
+<p>You can try a live demo of the CapraStar AI here: https://editor.p5js.org/brownmakey243/full/A80PMc3Xj</p>
+<p>You can now also challenge it over on Lichess: https://lichess.org/@/CapraStar</p>
+
+---
+
+## Screenshots
+
+### Login and Gameplay
+
+<div align="center">
+<img src="docs/login.png" alt="Login" width="600">
+<img src="docs/main-menu.png" alt="Main menu" width="600">
+<img src="docs/bot-options.png" alt="Bot options" width="600">
+</div>
+
+### Profile and Analysis
+
+<div align="center">
+<img src="docs/profile.png" alt="Profile" width="600">
+<img src="docs/analysis.png" alt="Analysis" width="600">
+</div>
 
 ---
 
@@ -45,7 +65,7 @@ You can try a live demo of the CapraStar AI here: https://editor.p5js.org/brownm
 - Fully custom-developed chess engine
 - Legal move generation and board logic
 - Position evaluation system
-- AI opponent for local play with an estimated elo of 1700+
+- AI opponent for local play with an estimated elo of 1900+
 - Move analysis and game review capabilities
 
 ### ♟️ Local Play
