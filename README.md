@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="docs/CapraStar.png" height="400px" alt="icon-512">
+  <img src="docs/CapraChessArena.png" height="300px" alt="CapraChessArena">
 </p>
 
 # CapraChess Arena ♟️
 
 A modern online chess platform built with **p5.js**, **Node.js**, and **XAMPP**, featuring real-time online gameplay, account management, persistent match history, and a custom-built chess engine capable of AI gameplay and game analysis.
 
-<p>You can try a live demo of the CapraStar AI here: https://editor.p5js.org/brownmakey243/full/A80PMc3Xj</p>
-<p>You can now also challenge it over on Lichess: https://lichess.org/@/CapraStar</p>
+For more information about the engine used in this platform visit the [CapraStar repository](https://github.com/CapiMDR/CapraStar).
 
 ---
 
